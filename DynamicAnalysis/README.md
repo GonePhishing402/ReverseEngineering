@@ -20,3 +20,5 @@ FakeNet-NG is a dynamic network analysis tool that intercepts and simulates netw
 
 - [Walkthrough](FakeNet/FakeNet_Walkthrough.md)
 - [Demo sample (demofile.c)](FakeNet/demofile.c)
+- [Official GitHub Repository](https://github.com/mandiant/flare-fakenet-ng)
+- [Official Documentation](https://github.com/mandiant/flare-fakenet-ng/blob/master/docs/README.md)

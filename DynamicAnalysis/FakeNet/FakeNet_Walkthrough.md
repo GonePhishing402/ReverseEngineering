@@ -9,6 +9,12 @@
    ```
 3) Check the FakeNet Results
    Look for the file that you executed to see what domain or IP is associated with those results.
+<<<<<<< HEAD
 
    ![FakeNet Results](../Images/fakenet.jpg)
 
+=======
+   ![FakeNet Output](./Images/fakenet.png)
+   
+   
+>>>>>>> c2a974a32eb53b35e04b4a7aaa716109e0931a15
